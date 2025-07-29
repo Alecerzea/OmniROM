@@ -5,4 +5,4 @@ They are from [here](https://u.pcloud.link/publink/show?code=kZDH81kZHH9txOzWRSf
 
 # SIDE NOTE
 
-If you used OPL-Manager to convert a few games, and then you used OmniROM to compress them, It can have issues, the first one being that you can go from .chd-.cso in most cases, I tried and no luck for my usecase
+If you used [OPL-Manager](https://oplmanager.com/site/) to dump yourgames, and then you used OmniROM to compress them, It can have issues, the first one being that you can go from .chd-.cso in most cases, I tried and no luck for my usecase
